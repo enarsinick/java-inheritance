@@ -9,7 +9,7 @@ public class Dog extends Pet {
 
 	@Override
 	public void doThing() {
-		System.out.println("I just took a massive shit on the carpet.");
+		System.out.println("I just took a massive dump on the carpet.");
 	}
 
 }
